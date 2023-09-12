@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-demos"
-  }
+    "default": "superchat-a3025",
+    "hosting": "superchat-a3025"
+  },
+  "targets": {},
+  "etags": {}
 }
